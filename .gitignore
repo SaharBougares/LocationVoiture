@@ -9,6 +9,7 @@
 *.gif
 *.jpg
 *.png
+!.png
 .DS_Store
 Thumbs.db
 *.log
