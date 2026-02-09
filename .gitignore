@@ -1,0 +1,16 @@
+/dist/
+/build/
+/nbproject/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.gif
+*.jpg
+*.png
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
